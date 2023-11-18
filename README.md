@@ -1,2 +1,2 @@
 # Daily OS
-This is a repository that Nikolan will post a Daily OS message to a few different Discord servers
+This GitHub repository is where I post Daily OS, I also post it on Discord servers so DM me (@nikolan) if you want me to post it in your server
